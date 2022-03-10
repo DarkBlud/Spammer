@@ -21,5 +21,5 @@ for i in range(counter):
     pg.write(msg)
     pg.press("Enter")
 
-#IG : DarkBlud
+#IG : dark._.blud
 #Github : DarkBlud
