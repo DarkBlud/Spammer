@@ -1,5 +1,5 @@
 #import library
-
+pip install -r "requirements.txt"
 
 from itertools import count
 import pyautogui as pg 
