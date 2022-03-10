@@ -6,10 +6,16 @@ import pyautogui as pg
 import time 
 import os
 os.system("pip install -r requirements.txt && cls")
+
+#Warning 
+os.system("color 0C") 
+print("Important ;; Do not change the page until the proggrame finish")
+input("Press Any thing to continue ...")
+os.system("color 02") 
 #Get Data
 
 
-counter = int(input("Please Enter count of spamming message :) ( Do not open any other page just stay on that page you want ) : "))
+counter = int(input("Enter count of message  : "))
 msg = input("Enter your message : ")
 
 #Action
