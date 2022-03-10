@@ -1,11 +1,11 @@
 #import library
-pip install -r "requirements.txt"
+
 
 from itertools import count
 import pyautogui as pg 
 import time 
 import os
-
+os.system("pip install -r requirements.txt")
 #Get Data
 
 
