@@ -11,7 +11,7 @@ os.system("pip install -r requirements.txt && cls")
 os.system("color 0C") 
 print("Important ;; Do not change the page until the proggrame finish")
 input("Press Any thing to continue ...")
-os.system("color 02") 
+os.system("color 02 && cls")  
 #Get Data
 
 
