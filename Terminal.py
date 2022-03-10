@@ -23,5 +23,5 @@ for i in range(10):
     a("cls")
     
 
-#Ig : DarkBlud
+#Ig : dark._.blud
 #Github : DarkBlud
