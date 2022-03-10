@@ -5,7 +5,7 @@ from itertools import count
 import pyautogui as pg 
 import time 
 import os
-os.system("pip install -r requirements.txt")
+os.system("pip install -r requirements.txt && cls")
 #Get Data
 
 
