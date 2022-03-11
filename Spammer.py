@@ -21,7 +21,7 @@ msg = input("Enter your message : ")
 #Action
 
 
-os.system("start C:/Users/DarkBlud/Desktop/spamm/Terminal.py")
+os.system("start Terminal.py")
 time.sleep(10)
 for i in range(counter): 
     pg.write(msg)
